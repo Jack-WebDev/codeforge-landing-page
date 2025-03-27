@@ -129,7 +129,7 @@ export default function Home() {
             className="text-center mb-16"
           >
             <h2 className="text-4xl font-bold mb-4">
-              Why Choose Our CodeForge?
+              Why Choose CodeForge?
             </h2>
             <p className="text-xl text-indigo-200 max-w-3xl mx-auto">
               Designed with modern workflows in mind, CodeForge brings powerful
