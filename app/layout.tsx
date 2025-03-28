@@ -15,6 +15,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Create CodeForge",
+  description:
+    "A modern command-line interface that helps developers automate tasks, manage projects, and boost productivity.",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({

@@ -1,6 +1,6 @@
 # CodeForge Landing Page
 
-> A modern command-line interface that helps developers automate tasks, manage projects, and boost productivity.
+> A modern command-line interface that helps developers automate tasks and boost productivity.
 
 ## ✨ Features
 
